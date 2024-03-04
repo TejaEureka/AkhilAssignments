@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B8E513BC-14B1-4D3C-B614-80CF31BFFC68}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/StocksModel.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Providers/StocksProvider.cs" Line="1" Column="1" />
+      <File FileName="Models/StocksModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotnet-core-api-jan-24" expanded="True">
+            <Node name="dotnet-core-api-jan-24" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="StocksModel.cs" selected="True" />
+              </Node>
+              <Node name="Providers" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.dotnet-core-api-jan-24 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

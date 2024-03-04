@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2fRwXqioiYZzFAyJDl0vuAuFv4xMufc1NsVXvFa4iU/ZoddA41UTAUzxZZw0e5dG2NAxcW+rkB7Ui7T+pJmkLw==",
+  "success": true,
+  "projectFilePath": "/Users/akhiljakkula/Desktop/Akhil DotNet/Dotnet-Training/Dotnet-Training.csproj",
+  "expectedPackageFiles": [
+    "/Users/akhiljakkula/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/akhiljakkula/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/akhiljakkula/.nuget/packages/npgsql/8.0.1/npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
